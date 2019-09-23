@@ -33,4 +33,6 @@ Compatibility: SharePoint 2016 and 2013 (not yet tested on earlier versions of S
 
 ![SharePoint Health Analyser Reports](/_images/SharePoint%20Health%20Analyser%20Reports.jpg)
 
+![Distributed Cache Health](/_images/Distributed%20Cache%20Health.jpg)
+
 
