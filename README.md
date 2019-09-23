@@ -27,3 +27,5 @@ Compatibility: SharePoint 2016 and 2013 (not yet tested on earlier versions of S
 
 ![IIS App Pool Status](/_images/IIS%20App%20Pool%20Status.jpg)
 
+![IIS App Pool Status](/_images/IIS%20Web%20Site%20Status.jpg)
+
