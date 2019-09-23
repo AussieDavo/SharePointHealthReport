@@ -39,4 +39,6 @@ Compatibility: SharePoint 2016 and 2013 (not yet tested on earlier versions of S
 
 ![Services on Server - Service Instances](/_images/Services%20on%20Server%20-%20Service%20Instances.jpg)
 
+![Crawl Log - Crawl History - Last 24 hours](/_images/Crawl%20Log%20-%20Crawl%20History%20-%20Last%2024%20hours.jpg)
+
 
