@@ -35,4 +35,6 @@ Compatibility: SharePoint 2016 and 2013 (not yet tested on earlier versions of S
 
 ![Distributed Cache Health](/_images/Distributed%20Cache%20Health.jpg)
 
+![Search Topology Health](/_images/Search%20Topology%20Health.jpg)
+
 
