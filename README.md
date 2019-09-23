@@ -23,3 +23,6 @@ Compatibility: SharePoint 2016 and 2013 (not yet tested on earlier versions of S
   - Includes total searchable items
 - Crawl Log - Error Breakdown
   - Includes Total Crawl Errors
+
+
+![IIS App Pool Status](/_images/IIS%20App%20Pool%20Status.jpg)
