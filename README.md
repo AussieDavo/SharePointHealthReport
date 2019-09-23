@@ -37,4 +37,6 @@ Compatibility: SharePoint 2016 and 2013 (not yet tested on earlier versions of S
 
 ![Search Topology Health](/_images/Search%20Topology%20Health.jpg)
 
+![Services on Server - Service Instances](/_images/Services%20on%20Server%20-%20Service%20Instances.jpg)
+
 
