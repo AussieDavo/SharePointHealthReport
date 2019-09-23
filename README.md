@@ -41,4 +41,6 @@ Compatibility: SharePoint 2016 and 2013 (not yet tested on earlier versions of S
 
 ![Crawl Log - Crawl History - Last 24 hours](/_images/Crawl%20Log%20-%20Crawl%20History%20-%20Last%2024%20hours.jpg)
 
+![Crawl Log - Error Breakdown](/_images/Crawl%20Log%20-%20Error%20Breakdown.jpg)
+
 
