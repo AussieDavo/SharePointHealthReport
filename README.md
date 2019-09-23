@@ -5,7 +5,7 @@ This PowerShell script runs from a single SharePoint server, it collects informa
 
 Script run time: 30 seconds (on average)
 
-Compatibility: SharePoint 2016 and 2013 (not yet tested on earlier versions on SharePoint or SharePoint 2019)
+Compatibility: SharePoint 2016 and 2013 (not yet tested on earlier versions of SharePoint or SharePoint 2019)
 
 - IIS Application Pool Status
 - IIS Web Site Status
