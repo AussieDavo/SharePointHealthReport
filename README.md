@@ -30,3 +30,7 @@ Compatibility: SharePoint 2016 and 2013 (not yet tested on earlier versions of S
 ![IIS Web Site Status](/_images/IIS%20Web%20Site%20Status.jpg)
 
 ![Service Application and Proxy Status](/_images/Service%20Application%20and%20Proxy%20Status.jpg)
+
+![SharePoint Health Analyser Reports](/_images/SharePoint%20Health%20Analyser%20Reports.jpg)
+
+
