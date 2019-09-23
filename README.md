@@ -1,5 +1,12 @@
 # SharePointHealthReport
 SharePoint Server Health Report
+
+This PowerShell script runs from a single SharePoint server, it collects information from the entire SharePoint Farm and sends the report via email.
+
+Script run time: 30 seconds (on average)
+
+Compatibility: SharePoint 2016 and 2013 (not yet tested on earlier versions onf SharePoint)
+
 - IIS Application Pool Status
 - IIS Web Site Status
   - Includes certificate bindings with expiry dates
