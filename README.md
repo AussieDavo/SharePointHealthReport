@@ -14,6 +14,7 @@ Compatibility: SharePoint 2016 and 2013 (not yet tested on earlier versions of S
 - SharePoint Health Analyser Reports
 - Distributed Cache Health
   - Includes Cache Size
+  - Copies AppFabric configuration back from remote Distributed Cache Server's registry in order to get cache cluster health locally 
 - Search Topology Health
 - Services on Server (Service Instances) Status
   - Includes the ability to capture a configuration baseline and monitor configuration drift
